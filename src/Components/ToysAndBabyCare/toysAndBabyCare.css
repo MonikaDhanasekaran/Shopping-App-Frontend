@@ -1,0 +1,339 @@
+/* Baby Care Essentials */
+
+/*  Div Baby Care Essentials */
+
+#divBabyCareEssentialsImage{
+    background-image: url("./images/babyCare.jpg");
+    width: 100%;
+}
+
+/* Card Baby Care Essentials */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#babyCareFlipCard{
+    width: 300px;
+    height: 300px;
+}
+  
+#babyCareFlipCardBack{
+    background-color: pink;
+}
+  
+/* Grid */
+  
+#babyCareGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingBabyCare{
+    color: black;
+}
+  
+#babyCareHeading{
+    font-size: 30px;
+    font-family: "Brush Script MT";
+}
+  
+/* Search Form */
+  
+#babyCareSearchForm{
+    margin-left: 65%;
+    width: 35%;
+}
+
+#babyCareSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Baby Care Essentials */
+  
+#buttonBabyCare{
+    background-color: black;
+    color: pink;
+    width: 45%;
+}
+  
+/* Span Baby Care Essentials */
+  
+#babyCareSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Baby Care Essentials */
+
+#divBabyCare {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Toys and Games */
+
+/*  Div Toys and Games */
+
+#divToysAndGamesImage{
+    background-image: url("./images/toysAndGames.jpg");
+    width: 100%;
+}
+
+/* Card Toys and Games */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#toyFlipCard{
+    width: 300px;
+    height: 300px;
+}
+  
+#toyFlipCardBack{
+    background-color: rgb(34, 11, 56);
+}
+  
+/* Grid */
+  
+#toyGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingToy{
+    color: white;
+}
+  
+#toyHeading{
+    font-size: 30px;
+    font-family: "Ink Free";
+}
+  
+/* Search Form */
+  
+#toySearchForm{
+    margin-left: 68%;
+    width: 35%;
+}
+
+#toySearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Toys and Games */
+  
+#buttonToy{
+    background-color: white;
+    color: rgb(34, 11, 56);
+    width: 45%;
+}
+  
+/* Span Toys and Games */
+  
+#toySpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Toys and Games */
+
+#divToy {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Guidance for Parents */
+
+/*  Div Guidance for Parents */
+
+#divGuidanceForParentsImage{
+    background-image: url("./images/guidanceForParents.jpg");
+    width: 100%;
+}
+
+/* Card Guidance for Parents */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#guidanceFlipCard{
+    width: 300px;
+    height: 330px;
+}
+  
+#guidanceFlipCardBack{
+    background-color: rgb(54, 54, 19);
+}
+  
+/* Grid */
+  
+#guidanceGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingGuidance{
+    color: black;
+}
+  
+#guidanceHeading{
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+}
+  
+/* Search Form */
+  
+#guidanceSearchForm{
+    margin-left: 65%;
+    width: 35%;
+}
+
+#guidanceSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Guidance for Parents */
+  
+#buttonGuidance{
+    background-color: black;
+    color: rgb(54, 54, 19);
+    width: 45%;
+}
+  
+/* Span Guidance for Parents */
+  
+#guidanceSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Guidance for Parents */
+
+#divGuidance {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Stationery and School Supplies */
+
+/*  Div Stationery and School Supplies */
+
+#divStationeryAndSchoolSuppliesImage{
+    background-image: url("./images/stationery.jpg");
+    width: 100%;
+}
+
+/* Card Stationery and School Supplies */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#stationeryFlipCard{
+    width: 300px;
+    height: 300px;
+}
+  
+#stationeryFlipCardBack{
+    background-color: rgb(151, 3, 3);
+}
+  
+/* Grid */
+  
+#stationeryGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingStationery{
+    color: black;
+}
+  
+#stationeryHeading{
+    font-size: 30px;
+    font-family: "Impact";
+}
+  
+/* Search Form */
+  
+#stationerySearchForm{
+    margin-left: 60%;
+    width: 39%;
+}
+
+#stationerySearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Stationery and School Supplies */
+  
+#buttonStationery{
+    background-color: black;
+    color: rgb(151, 3, 3);
+    width: 45%;
+}
+  
+/* Span Stationery and School Supplies */
+  
+#stationerySpan{
+    text-decoration: line-through maroon;
+}
+  
+/* Div Stationery and School Supplies */
+
+#divStationery {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}

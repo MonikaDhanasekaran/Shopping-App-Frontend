@@ -1,0 +1,339 @@
+/* Sports Shoes */
+
+/*  Div Sports Shoes */
+
+#divSportShoesImage{
+    background-image: url("./images/sportShoes.jpg");
+    width: 100%;
+}
+
+/* Card Sports Shoes */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#shoeFlipCard{
+    width: 300px;
+    height: 330px;
+}
+  
+#shoeFlipCardBack{
+    background-color: rgb(78, 136, 36);
+}
+  
+/* Grid */
+  
+#shoeGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingShoe{
+    color: black;
+}
+  
+#shoeHeading{
+    font-size: 30px;
+    font-family: "Lucida Handwriting";
+}
+  
+/* Search Form */
+  
+#shoeSearchForm{
+    margin-left: 68%;
+    width: 35%;
+}
+
+#shoeSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Sports Shoes */
+  
+#buttonShoe{
+    background-color: black;
+    color: rgb(78, 136, 36);
+    width: 45%;
+}
+  
+/* Span Sports Shoes */
+  
+#shoeSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Sports Shoes */
+  
+#divShoe {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Sports Wear */
+
+/*  Div Sports Wear */
+
+#divSportsWearImage{
+    background-image: url("./images/sportsWear.jpg");
+    width: 100%;
+}
+
+/* Card Sports Wear */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#sportsWearFlipCard{
+    width: 300px;
+    height: 340px;
+}
+  
+#sportsWearFlipCardBack{
+    background-color: rgb(142, 76, 35);
+}
+  
+/* Grid */
+  
+#sportsWearGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingSportsWear{
+    color: black;
+}
+  
+#sportsWearHeading{
+    font-size: 30px;
+    font-family: "Verdana";
+}
+  
+/* Search Form */
+  
+#sportsWearSearchForm{
+    margin-left: 68%;
+    width: 35%;
+}
+
+#sportsWearSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Sports Wear */
+  
+#buttonSportsWear{
+    background-color: black;
+    color: rgb(142, 76, 35);
+    width: 45%;
+}
+  
+/* Span Sports Wear */
+  
+#sportsWearSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Sports Wear */
+  
+#divSportsWear {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Sports Gear */
+
+/*  Div Sports Gear */
+
+#divSportsGearImage{
+    background-image: url("./images/sportsGear.jpg");
+    width: 100%;
+}
+
+/* Card Sports Gear */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#sportsGearFlipCard{
+    width: 300px;
+    height: 300px;
+}
+  
+#sportsGearFlipCardBack{
+    background-color: moccasin;
+}
+  
+/* Grid */
+  
+#sportsGearGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingSportsGear{
+    color: black;
+}
+  
+#sportsGearHeading{
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+}
+  
+/* Search Form */
+  
+#sportsGearSearchForm{
+    margin-left: 68%;
+    width: 35%;
+}
+
+#sportsGearSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Sports Gear */
+  
+#buttonSportsGear{
+    background-color: black;
+    color: moccasin;
+    width: 45%;
+}
+  
+/* Span Sports Gear */
+  
+#sportsGearSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Sports Gear */
+  
+#divSportsGear {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Fitness Equipments */
+
+/*  Div Fitness Equipments */
+
+#divFitnessEquipmentsImage{
+    background-image: url("./images/fitnessEquipments.jpg");
+    width: 100%;
+}
+
+/* Card Fitness Equipments */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#fitnessFlipCard{
+    width: 300px;
+    height: 330px;
+}
+  
+#fitnessFlipCardBack{
+    background-color: midnightblue;
+}
+  
+/* Grid */
+  
+#fitnessGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingFitness{
+    color: white;
+}
+  
+#fitnessHeading{
+    font-size: 30px;
+    font-family: "Goudy Old Style";
+}
+  
+/* Search Form */
+  
+#fitnessSearchForm{
+    margin-left: 66%;
+    width: 35%;
+}
+
+#fitnessSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Fitness Equipments */
+  
+#buttonFitness{
+    background-color: white;
+    color: midnightblue;
+    width: 45%;
+}
+  
+/* Span Fitness Equipments */
+  
+#fitnessSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Fitness Equipments */
+  
+#divFitness {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
