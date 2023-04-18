@@ -1,0 +1,679 @@
+/* Kitchen and Cookware */
+
+/*  Div Kitchen and Cookware */
+
+#divKitchenAndCookwareImage{
+    background-image: url("./images/kitchenAndCookware.jpg");
+    width: 100%;
+}
+
+/* Card Kitchen and Cookware */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#cookwareFlipCard{
+    width: 300px;
+    height: 300px;
+}
+  
+#cookwareFlipCardBack{
+    background-color: chocolate;
+}
+  
+/* Grid */
+  
+#cookwareGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingCookware{
+    color: black;
+}
+  
+#cookwareHeading{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+/* Search Form */
+  
+#cookwareSearchForm{
+    margin-left: 65%;
+    width: 35%;
+}
+
+#cookwareSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Kitchen and Cookware */
+  
+#buttonCookware{
+    background-color: black;
+    color: chocolate;
+    width: 45%;
+}
+  
+/* Span Kitchen and Cookware */
+  
+#cookwareSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Kitchen and Cookware */
+  
+#divCookware {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Home Furnishing */
+
+/*  Div Home Furnishing */
+
+#divHomeFurnishingImage{
+    background-image: url("./images/homeFurnishing.jpg");
+    width: 100%;
+}
+
+/* Card Home Furnishing */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#homeFurnishFlipCard{
+    width: 300px;
+    height: 300px;
+}
+  
+#homeFurnishFlipCardBack{
+    background-color: rgb(120, 184, 236);
+}
+  
+/* Grid */
+  
+#homeFurnishGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingHomeFurnish{
+    color: black;
+}
+  
+#homeFurnishHeading{
+    font-size: 30px;
+    font-family: "Lucida Handwriting";
+}
+  
+/* Search Form */
+  
+#homeFurnishSearchForm{
+    margin-left: 65%;
+    width: 35%;
+}
+
+#homeFurnishSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Home Furnishing */
+  
+#buttonHomeFurnish{
+    background-color: black;
+    color: rgb(120, 184, 236);
+    width: 45%;
+}
+  
+/* Span Home Furnishing */
+  
+#homeFurnishSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Home Furnishing */
+  
+#divHomeFurnish {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Home Decor */
+
+/*  Div Home Decor */
+
+#divHomeDecorImage{
+    background-image: url("./images/homeDecor.jpg");
+    width: 100%;
+}
+
+/* Card Home Decor */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#decorFlipCard{
+    width: 300px;
+    height: 350px;
+}
+  
+#decorFlipCardBack{
+    background-color: rgb(67, 87, 38);
+}
+  
+/* Grid */
+  
+#decorGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingDecor{
+    color: black;
+}
+  
+#decorHeading{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+  
+/* Search Form */
+  
+#decorSearchForm{
+    margin-left: 68%;
+    width: 33%;
+}
+
+#decorSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Home Decor */
+  
+#buttonDecor{
+    background-color: black;
+    color: rgb(67, 87, 38);
+    width: 45%;
+}
+  
+/* Span Home Decor */
+  
+#decorSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Home Decor */
+  
+#divDecor {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Dining and Serveware */
+
+/*  Div Dining and Serveware */
+
+#divDiningAndServewareImage{
+    background-image: url("./images/diningAndServeware.jpg");
+    width: 100%;
+}
+
+/* Card Dining and Serveware */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#servewareFlipCard{
+    width: 300px;
+    height: 350px;
+}
+  
+#servewareFlipCardBack{
+    background-color: mediumvioletred;
+}
+  
+/* Grid */
+  
+#servewareGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingServeware{
+    color: black;
+}
+  
+#servewareHeading{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+  
+/* Search Form */
+  
+#servewareSearchForm{
+    margin-left: 65%;
+    width: 35%;
+}
+
+#servewareSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Dining and Serveware */
+  
+#buttonServeware{
+    background-color: black;
+    color: mediumvioletred;
+    width: 45%;
+}
+  
+/* Span Dining and Serveware */
+  
+#servewareSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Dining and Serveware */
+  
+#divServeware {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Gardening Essentials */
+
+/*  Div Gardening Essentials */
+
+#divGardeningEssentialsImage{
+    background-image: url("./images/gardeningEssentials.jpg");
+    width: 100%;
+}
+
+/* Card Gardening Essentials */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#gardeningFlipCard{
+    width: 300px;
+    height: 340px;
+}
+  
+#gardeningFlipCardBack{
+    background-color: rgb(170, 229, 170);
+}
+  
+/* Grid */
+  
+#gardeningGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingGardening{
+    color: black;
+}
+  
+#gardeningHeading{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+  
+/* Search Form */
+  
+#gardeningSearchForm{
+    margin-left: 65%;
+    width: 35%;
+}
+
+#gardeningSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Gardening Essentials */
+  
+#buttonGardening{
+    background-color: black;
+    color: rgb(170, 229, 170);
+    width: 45%;
+}
+  
+/* Span Gardening Essentials */
+  
+#gardeningSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Gardening Essentials */
+  
+#divGardening {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Lightning */
+
+/*  Div Lightning */
+
+#divLightningImage{
+    background-image: url("./images/lightning.jpg");
+    width: 100%;
+}
+
+/* Card Lightning */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#lightningFlipCard{
+    width: 300px;
+    height: 340px;
+}
+  
+#lightningFlipCardBack{
+    background-color: rgb(112, 5, 67);
+}
+  
+/* Grid */
+  
+#lightningGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingLightning{
+    color: white;
+}
+  
+#lightningHeading{
+    font-size: 30px;
+    font-family: "Papyrus";
+}
+  
+/* Search Form */
+  
+#lightningSearchForm{
+    margin-left: 66%;
+    width: 35%;
+}
+
+#lightningSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Lightning */
+  
+#buttonLightning{
+    background-color: white;
+    color: rgb(112, 5, 67);
+    width: 45%;
+}
+  
+/* Span Lightning */
+  
+#lightningSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Lightning */
+  
+#divLightning {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Bedsheets and More */
+
+/*  Div Bedsheets and More */
+
+#divBedsheetsAndMoreImage{
+    background-image: url("./images/bedsheets.jpg");
+    width: 100%;
+}
+
+/* Card Bedsheets and More */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#bedsheetFlipCard{
+    width: 300px;
+    height: 300px;
+}
+  
+#bedsheetFlipCardBack{
+    background-color: darkgreen;
+}
+  
+/* Grid */
+  
+#bedsheetGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingBedsheet{
+    color: black;
+}
+  
+#bedsheetHeading{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+  
+/* Search Form */
+  
+#bedsheetSearchForm{
+    margin-left: 65%;
+    width: 35%;
+}
+
+#bedsheetSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Bedsheets and More */
+  
+#buttonBedsheet{
+    background-color: black;
+    color: darkgreen;
+    width: 45%;
+}
+  
+/* Span Bedsheets and More */
+  
+#bedsheetSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Bedsheets and More */
+  
+#divBedsheet {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Cleaning Essentials */
+
+/*  Div Cleaning Essentials */
+
+#divCleaningEssentialsImage{
+    background-image: url("./images/cleaningEssentials.jpg");
+    width: 100%;
+}
+
+/* Card Cleaning Essentials */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#cleaningFlipCard{
+    width: 300px;
+    height: 330px;
+}
+  
+#cleaningFlipCardBack{
+    background-color: darksalmon;
+}
+  
+/* Grid */
+  
+#cleaningGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingCleaning{
+    color: black;
+}
+  
+#cleaningHeading{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+  
+/* Search Form */
+  
+#cleaningSearchForm{
+    margin-left: 65%;
+    width: 35%;
+}
+
+#cleaningSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Cleaning Essentials */
+  
+#buttonCleaning{
+    background-color: black;
+    color: darksalmon;
+    width: 45%;
+}
+  
+/* Span Cleaning Essentials */
+  
+#cleaningSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Cleaning Essentials */
+  
+#divCleaning {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}

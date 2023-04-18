@@ -1,0 +1,825 @@
+/* Mobiles */
+
+/* Realme */
+
+/* Div Realme */
+
+#divRealmeImage{
+  background-image: url("./images/realmi.webp");
+  width: 100%;
+}
+
+/* Card Realme */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#realmeFlipCard{
+  width: 300px;
+  height: 320px;
+}
+
+#realmeFlipCardBack{
+  background-color: rgb(255, 201, 22);
+}
+
+/* Grid */
+
+#realmeGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 20px;
+}
+
+/* Heading Tag */
+
+#headingRealme{
+  color: black;
+}
+
+#realmeHeading{
+  font-size: 30px;
+  font-family: "Comic Sans MS";
+}
+
+/* Search Form */
+
+#realmeSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#realmeSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Realme */
+
+#buttonRealme{
+  background-color: black;
+  color: rgb(255, 201, 22);
+  width: 45%;
+}
+
+/* Span Realme */
+
+#realmeSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Realme */
+
+#divRealme {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* POCO */
+
+/* Div Poco */
+
+#divPocoImage{
+  background-image: url("./images/poco.jpg");
+  width: 100%;
+}
+
+/* Card Poco */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#pocoFlipCard{
+  width: 300px;
+  height: 320px;
+}
+
+#pocoFlipCardBack{
+  background-color: yellow;
+}
+
+/* Grid */
+
+#pocoGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 20px;
+}
+
+/* Heading Tag */
+
+#headingPoco{
+  color: black;
+}
+
+#pocoHeading{
+  font-size: 30px;
+  font-family: "papyrus";
+}
+
+/* Search Form */
+
+#pocoSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#pocoSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Poco */
+
+#buttonPoco{
+  background-color: black;
+  color: yellow;
+  width: 45%;
+}
+
+/* Span Poco */
+
+#pocoSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Poco */
+
+#divPoco {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Heading Tag */
+
+#headingPoco{
+  color: black;
+}
+
+#pocoHeading{
+  font-size: 25px;
+  font-family: "Papyrus";
+}
+
+/* Samsung */
+
+/* Div Samsung */
+
+#divSamsungImage{
+  background-image: url("./images/samsung.webp");
+  width: 100%;
+}
+
+/* Card Samsung */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#samsungFlipCard{
+  width: 300px;
+  height: 330px;
+}
+
+#samsungFlipCardBack{
+  background-color: rgb(20, 40, 160);
+}
+
+/* Grid */
+
+#samsungGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 20px;
+}
+
+/* Search Form */
+
+#samsungSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#samsungSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Samsung */
+
+#buttonSamsung{
+  background-color: black;
+  color: rgb(20, 40, 160);
+  width: 45%;
+}
+
+/* Span Samsung */
+
+#samsungSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Samsung */
+
+#divSamsung {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Heading Tag */
+
+#headingSamsung{
+  color: black;
+}
+
+#samsungHeading{
+  font-size: 30px;
+  font-family: "Ink Free";
+}
+
+/* Vivo */
+
+/* Div Vivo */
+
+#divVivoImage{
+  background-image: url("./images/vivo.jpg");
+  width: 100%;
+}
+
+/* Card Vivo */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#vivoFlipCard{
+  width: 300px;
+  height: 320px;
+}
+
+#vivoFlipCardBack{
+  background-color: rgb(0, 114, 184);
+}
+
+/* Grid */
+
+#vivoGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 20px;
+}
+
+/* Heading Tag */
+
+#headingVivo{
+  color: black;
+}
+
+#vivoHeading{
+  font-size: 30px;
+  font-family: "Courier New";
+}
+
+/* Search Form */
+
+#vivoSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#vivoSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Vivo */
+
+#buttonVivo{
+  background-color: black;
+  color: rgb(0, 114, 184);
+  width: 45%;
+}
+
+/* Span Vivo */
+
+#vivoSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Vivo */
+
+#divVivo {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Apple */
+
+/* Div Apple */
+
+#divAppleImage{
+  background-image: url("./images/apple.jpg");
+  width: 100%;
+}
+
+/* Card Apple */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#appleFlipCard{
+  width: 300px;
+  height: 320px;
+}
+
+#appleFlipCardBack{
+  background-color: gray;
+}
+
+/* Grid */
+
+#appleGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 20px;
+}
+
+/* Search Form */
+
+#appleSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#appleSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Apple */
+
+#buttonApple{
+  background-color: black;
+  color: gray;
+  width: 45%;
+}
+
+/* Span Apple */
+
+#appleSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Apple */
+
+#divApple {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Heading Tag */
+
+#headingApple{
+  color: black;
+}
+
+#appleHeading{
+  font-size: 30px;
+  font-family: "Georgia";
+}
+
+/* Motorola */
+
+/* Div Motorola */
+
+#divMotorolaImage{
+  background-image: url("./images/motorola.webp");
+  width: 100%;
+}
+
+/* Card Motorola */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#motorolaFlipCard{
+  width: 300px;
+  height: 320px;
+}
+
+#motorolaFlipCardBack{
+  background-color: red;
+}
+
+/* Grid */
+
+#motorolaGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 20px;
+}
+
+/* Search Form */
+
+#motorolaSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#motorolaSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Motorola */
+
+#buttonMotorola{
+  background-color: white;
+  color: red;
+  width: 45%;
+}
+
+/* Span Motorola */
+
+#motorolaSpan{
+  text-decoration: line-through rgb(111, 36, 36);
+}
+
+/* Div Motorola */
+
+#divMotorola {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Heading Tag */
+
+#headingMotorola{
+  color: white;
+}
+
+#motorolaHeading{
+  font-size: 25px;
+  font-family: "Garamond";
+}
+
+/* Xiaomi */
+
+/* Div Xiaomi */
+
+#divXiaomiImage{
+  background-image: url("./images/xiaomi.jpg");
+  width: 100%;
+}
+
+/* Card Xiaomi */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#xiaomiFlipCard{
+  width: 300px;
+  height: 330px;
+}
+
+#xiaomiFlipCardBack{
+  background-color: rgb(255, 103, 0);
+}
+
+/* Grid */
+
+#xiaomiGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 20px;
+}
+
+/* Search Form */
+
+#xiaomiSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#xiaomiSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Xiaomi */
+
+#buttonXiaomi{
+  background-color: black;
+  color: rgb(255, 103, 0);
+  width: 45%;
+}
+
+/* Span Xiaomi */
+
+#xiaomiSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Xiaomi */
+
+#divXiaomi {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Heading Tag */
+
+#headingXiaomi{
+  color: black;
+}
+
+#xiaomiHeading{
+  font-size: 30px;
+  font-family: "Bahnschrift SemiBold";
+}
+
+/* Oppo */
+
+/* Div Oppo */
+
+#divOppoImage{
+  background-image: url("./images/oppo.webp");
+  width: 100%;
+}
+
+/* Card Oppo */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#oppoFlipCard{
+  width: 300px;
+  height: 325px;
+}
+
+#oppoFlipCardBack{
+  background-color: rgb(30, 163, 102);
+}
+
+/* Grid */
+
+#oppoGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 20px;
+}
+
+/* Search Form */
+
+#oppoSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#oppoSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Oppo */
+
+#buttonOppo{
+  background-color: black;
+  color: rgb(30, 163, 102);
+  width: 45%;
+}
+
+/* Span Oppo */
+
+#oppoSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Oppo */
+
+#divOppo {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Heading Tag */
+
+#headingOppo{
+  color: black;
+}
+
+#oppoHeading{
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Google Pixel */
+
+/* Div GooglePixel */
+
+#divGooglePixelImage{
+  background-image: url("./images/googlePixel.jpg");
+  width: 100%;
+}
+
+/* Card Google Pixel */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#googlePixelFlipCard{
+  width: 300px;
+  height: 300px;
+}
+
+#googlePixelFlipCardBack{
+  background: linear-gradient(to left, rgb(66 133 244), rgb(219 68 55), rgb(244,180,0), rgb(15 157 88), rgb(219 68 55));
+}
+
+/* Grid */
+
+#googlePixelGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 20px;
+}
+
+/* Search Form */
+
+#googlePixelSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#googlePixelSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button GooglePixel */
+
+#buttonGooglePixel{
+  background: linear-gradient(to left, rgb(66 133 244), rgb(219 68 55), rgb(244,180,0), rgb(15 157 88), rgb(219 68 55));
+  color: black;
+  width: 45%;
+}
+
+/* Span Google Pixel */
+
+#googlePixelSpan{
+  text-decoration: line-through red;
+}
+
+/* Div GooglePixel */
+
+#divGooglePixel {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Heading Tag */
+
+#headingGooglePixel{
+  color: black;
+}
+
+#googlePixelHeading{
+  font-size: 25px;
+  font-family: "Lucida Handwriting";
+}
+
+/* Footer */
+
+#footer{
+  height: 100%;
+}
+
+/* Flip Cards */
+
+.flip-card {
+  background-color: transparent;
+  width: 320px;
+  height: 355px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  border-radius: 40px;
+  color: black;
+}
+
+.flip-card-back {
+  border-radius: 40px;
+  background-color: skyblue;
+  color: black;
+  transform: rotateY(180deg);
+}
