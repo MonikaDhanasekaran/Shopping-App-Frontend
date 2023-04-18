@@ -1,0 +1,458 @@
+/* Login */
+
+/* Div */
+
+#divLogin {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("./images/login.webp");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 20cm;
+    position: fixed;
+}
+
+/* Typography */
+
+#typoLogin {
+    font-family: "Ink Free";
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+/* Card */
+
+#cardLogin {
+    width: 25%;
+    margin-left: 37%;
+    margin-top: 10%;
+    border-radius: 40px;
+}
+
+/* Button */
+
+#buttonLogin {
+    width: 30%;
+    border-radius: 20px;
+}
+
+/* Register */
+
+/* Div */
+
+#divRegister {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("./images/register.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 20cm;
+    position: fixed;
+}
+
+/* Typography */
+
+#typoRegister {
+    font-family: "Ink Free";
+    font-size: 40px;
+}
+
+/* Card */
+
+#cardRegister {
+    width: 48%;
+    margin-left: 25%;
+    border-radius: 40px;
+}
+
+/* Button */
+
+#buttonRegister {
+    width: 30%;
+    margin-top: 170%;
+}
+
+/* Form */
+
+#formRegister {
+    width: 75%
+}
+
+/* Forgot Password */
+
+/* Div */
+
+#divForgotPassword {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("./images/forgotPassword.webp");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 20cm;
+    position: fixed;
+}
+
+/* Typography */
+
+#typoForgotPassword {
+    font-family: "Gabriola";
+    font-size: 40px;
+}
+
+/* Card */
+
+#cardForgotPassword {
+    width: 30%;
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: 35%;
+    margin-top: 13%;
+}
+
+/* Button */
+
+#buttonForgotPassword {
+    width: 30%;
+    border-radius: 20px;
+}
+
+/* Change Password */
+
+/* Div */
+
+#divChangePassword {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("./images/changePassword.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 20cm;
+    position: fixed;
+}
+
+/* Typography */
+
+#typoChangePassword {
+    font-family: "Gabriola";
+    font-size: 40px;
+}
+
+/* Card */
+
+#cardChangePassword {
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 10%;
+    border-radius: 40px;
+    padding: 10px;
+}
+
+/* Button */
+
+#buttonChangePassword {
+    width: 50%;
+    border-radius: 20px;
+}
+
+/* Sign in page */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1140px;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#containerLogin {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    display: flex;
+    background: #ffffff;
+    box-shadow: 0 0 5px #999999;
+    border-radius: 20px;
+}
+
+#buttonSignIn {
+    width: 50%;
+    margin-left: 25%;
+}
+
+#linkForgotPassword {
+    margin-left: 23%;
+}
+
+.login .col-left,
+.login .col-right {
+    padding: 30px;
+    display: flex;
+}
+
+.login .col-left {
+    width: 60%;
+    clip-path: polygon(0 0, 0% 100%, 100% 0);
+    background: linear-gradient(to left, rgb(129, 65, 78), #2aa15f);
+    /* background: #2aa15f; */
+}
+
+#welcomeHeading {
+    margin-right: 35%;
+}
+
+.login .col-right {
+    padding: 60px 30px;
+    width: 50%;
+    margin-left: -10%;
+}
+
+
+@media(max-width: 575px) {
+    .login .container {
+        flex-direction: column;
+        box-shadow: none;
+    }
+
+    .login .col-left,
+    .login .col-right {
+        width: 100%;
+        margin: 0;
+        clip-path: none;
+    }
+
+    .login .col-right {
+        padding: 30px;
+    }
+
+}
+
+
+.login .login-text {
+    position: relative;
+    width: 100%;
+    color: #ffffff;
+}
+
+.login .login-text h2 {
+    margin: 0 0 15px 0;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.login .login-text p {
+    margin: 0 0 20px 0;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+}
+
+.login .login-text .btn {
+    display: inline-block;
+    font-family: poppins;
+    padding: 7px 20px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    border-radius: 30px;
+    color: #ffffff;
+    outline: none;
+    border: 1px solid #ffffff;
+    box-shadow: inset 0 0 0 0 #ffffff;
+    transition: .3s;
+}
+
+.login .login-text .btn:hover {
+    color: #2aa15f;
+    box-shadow: inset 150px 0 0 0 #ffffff;
+}
+
+.login .login-form {
+    position: relative;
+    width: 100%;
+}
+
+.login .login-form h2 {
+    margin: 0 0 15px 0;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.login .login-form p {
+    margin: 0 0 10px 0;
+    text-align: left;
+    color: #666666;
+    font-size: 15px;
+}
+
+.login .login-form p:last-child {
+    margin: 0;
+    padding-top: 3px;
+}
+
+.login .login-form p a {
+    color: #2aa15f;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.login .login-form label {
+    display: block;
+    width: 100%;
+    margin-bottom: 2px;
+    letter-spacing: .5px;
+    margin-left: 10px;
+}
+
+.login .login-form p:last-child label {
+    width: 60%;
+    float: left;
+}
+
+.login .login-form label span {
+    color: #ff574e;
+    padding-left: 2px;
+}
+
+.login .login-form input {
+    display: block;
+    width: 100%;
+    height: 35px;
+    padding: 0 10px;
+    outline: none;
+    border: 1px solid #cccccc;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+
+.login .login-form input:focus {
+    border-color: #ff574e;
+}
+
+.login .login-form button,
+.login .login-form input[type=submit] {
+    display: inline-block;
+    width: 100%;
+    margin-top: 5px;
+    color: #2aa15f;
+    font-size: 16px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    background: transparent;
+    border: 1px solid #2aa15f;
+    border-radius: 30px;
+    box-shadow: inset 0 0 0 0 #2aa15f;
+    transition: .3s;
+}
+
+.login .login-form button:hover,
+.login .login-form input[type=submit]:hover {
+    color: #ffffff;
+    box-shadow: inset 250px 0 0 0 #2aa15f;
+}
+
+/* Sign up page */
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
+
+*:focus {
+    outline: none;
+}
+
+#login-box {
+    position: relative;
+    margin: 3% auto;
+    width: 800px;
+    height: 670px;
+    background: #FFF;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.left {
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 400px;
+    height: 400px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 20px;
+    font-weight: 300;
+    font-size: 28px;
+}
+
+input[type="text"],
+input[type="password"] {
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    padding: 4px;
+    width: 238px;
+    height: 32px;
+    border: none;
+    border-bottom: 1px solid #AAA;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    transition: 0.2s ease;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+    border-bottom: 2px solid #16a085;
+    color: #16a085;
+    transition: 0.2s ease;
+}
+
+input[type="submit"] {
+    margin-top: 10px;
+    width: 120px;
+    height: 32px;
+    background: #16a085;
+    border: none;
+    border-radius: 2px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    transition: 0.1s ease;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover,
+input[type="submit"]:focus {
+    opacity: 0.8;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    transition: 0.1s ease;
+}
+
+input[type="submit"]:active {
+    opacity: 1;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+    transition: 0.1s ease;
+}
+
+.right {
+    position: absolute;
+    top: 0;
+    right: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 400px;
+    height: 660px;
+    background: url('https://img.freepik.com/free-vector/sign-concept-illustration_114360-125.jpg?size=626&ext=jpg&ga=GA1.2.737030087.1670416611&semt=ais');
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}

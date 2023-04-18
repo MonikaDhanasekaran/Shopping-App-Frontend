@@ -1,0 +1,1150 @@
+/* Electronics */
+
+/* Div Laptops and Desktops */
+
+#divLaptopsAndDesktopsImage{
+  background-image: url("./images/laptopsAndDesktops.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 20cm;
+  position: fixed;
+}
+
+#divLaptops{
+  width: 300px;
+  margin-left: 20%;
+}
+
+#divDesktops{
+  width: 300px;
+  margin-left: 20%;
+}
+
+/* Button Laptops and Desktops Categories */
+
+#buttonLaptopsAndDesktopsCategories{
+  width: 5%;
+  background-color: rgb(236, 39, 223);
+  color: white;
+  border-radius: 20px;
+  margin-left: 85%;
+  margin-top: 30px;
+}
+
+/* Heading Tag */
+
+#headingLaptops{
+  font-family: "Century Gothic";
+  font-size: 25px;
+  margin-left: 60%;
+  color: white;
+}
+
+#headingDesktops{
+  font-family: "Century Gothic";
+  font-size: 25px;
+  margin-left: 0;
+  margin-bottom: 15px;
+  color: white;
+}
+
+/* Button Laptops and Desktops */
+
+#buttonLaptops{
+  border-radius: 20px;
+  width: 100%;
+  height: 140px;
+  margin-top: 30%;
+  margin-left: 30%;
+  background-color: white;
+  border: 2px solid white
+}
+
+#buttonDesktops{
+  border-radius: 20px;
+  width: 100%;
+  margin-top: 29%;
+  background-color: white;
+  border: 2px solid white;
+}
+
+/* Image */
+
+#electronicsRoundCard{
+  width: 50%;
+  height: 100px;
+}
+
+#electronicsRoundCards{
+  width: 50%;
+  height: 120px;
+  margin-top: 5px;
+}
+
+/* Laptop */
+
+/* Div laptops */
+
+#divLaptopsImage{
+  background-image: url("./images/laptops.webp");
+  width: 100%;
+}
+
+/* Card Laptop */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#laptopsFlipCard{
+  width: 300px;
+  height: 370px;
+}
+
+#laptopFlipCardBack{
+  background-color: grey;
+}
+
+/* Grid */
+
+#laptopGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 20px;
+}
+
+/* Heading Tag */
+
+#headingLaptop{
+  color: black;
+}
+
+#laptopHeading{
+  font-size: 30px;
+  font-family: "Garamond";
+}
+
+/* Search Form */
+
+#laptopSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#laptopSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Laptop */
+
+#buttonLaptop{
+  background-color: black;
+  color: grey;
+  width: 45%;
+}
+
+/* Span Laptop */
+
+#laptopSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Laptop */
+
+#divLaptop {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Desktop */
+
+/* Div Desktops */
+
+#divDesktopsImage{
+  background-image: url("./images/desktops.jpg");
+  width: 100%;
+}
+
+/* Card Desktop */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#desktopsFlipCard{
+  width: 300px;
+  height: 370px;
+}
+
+#desktopFlipCardBack{
+  background-color: rgb(18, 18, 67);
+}
+
+/* Grid */
+
+#desktopGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 10px;
+}
+
+/* Heading Tag */
+
+#headingDesktop{
+  color: white;
+}
+
+#desktopHeading{
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium";
+}
+
+/* Search Form */
+
+#desktopSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#desktopSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Desktop */
+
+#buttonDesktop{
+  background-color: white;
+  color: rgb(18, 18, 67);
+  width: 45%;
+}
+
+/* Span Desktop */
+
+#desktopSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Desktop */
+
+#divDesktop {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Headphones */
+
+/* Div Headphones */
+
+#divHeadphonesImage{
+  background-image: url("./images/headphones.jpg");
+  width: 100%;
+}
+
+/* Card Headphones */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#headphonesFlipCard{
+  width: 300px;
+  height: 325px;
+}
+
+#headphonesFlipCardBack{
+  background-color: aquamarine;
+}
+
+/* Grid */
+
+#headphonesGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 10px;
+}
+
+/* Heading Tag */
+
+#headingHeadphones{
+  color: black;
+}
+
+#headphonesHeading{
+  font-size: 30px;
+  font-family: "Brush Script MT";
+}
+
+/* Search Form */
+
+#headphonesSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#headphonesSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Headphones */
+
+#buttonHeadphones{
+  background-color: black;
+  color: aquamarine;
+  width: 45%;
+}
+
+/* Span Headphones */
+
+#headphonesSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Headphones */
+
+#divHeadphones {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Smart Wearables */
+
+/* Div Smart Wearables */
+
+#divSmartWearablesImage{
+  background-image: url("./images/smartWearables.webp");
+  width: 100%;
+}
+
+/* Card Watches */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#watchesFlipCard{
+  width: 300px;
+  height: 320px;
+}
+
+#watchesFlipCardBack{
+  background-color: violet;
+}
+
+/* Grid */
+
+#watchesGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 10px;
+}
+
+/* Heading Tag */
+
+#headingWatches{
+  color: black;
+}
+
+#watchesHeading{
+  font-size: 30px;
+  font-family: "Gabriola";
+}
+
+/* Search Form */
+
+#watchesSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#watchesSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Watches */
+
+#buttonWatches{
+  background-color: black;
+  color: violet;
+  width: 45%;
+}
+
+/* Span Watches */
+
+#watchesSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Watches */
+
+#divWatches {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Styling Devices */
+
+/* Div Styling Devices */
+
+#divStylingDevicesImage{
+  background-image: url("./images/stylingDevices.webp");
+  width: 100%;
+}
+
+/* Card Style */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#styleFlipCard{
+  width: 300px;
+  height: 300px;
+}
+
+#styleFlipCardBack{
+  background-color: olive;
+}
+
+/* Grid */
+
+#styleGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 10px;
+}
+
+/* Heading Tag */
+
+#headingStyle{
+  color: black;
+}
+
+#styleHeading{
+  font-size: 30px;
+  font-family: "MingLiU-ExtB";
+}
+
+/* Search Form */
+
+#styleSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#styleSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Style */
+
+#buttonStyle{
+  background-color: black;
+  color: olive;
+  width: 45%;
+}
+
+/* Span Style */
+
+#styleSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Style */
+
+#divStyle {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Camera */
+
+/* Div Camera */
+
+#divCamerasImage{
+  background-image: url("./images/cameras.jpg");
+  width: 100%;
+}
+
+/* Card Camera */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#cameraFlipCard{
+  width: 300px;
+  height: 300px;
+}
+
+#cameraFlipCardBack{
+  background-color: pink;
+}
+
+/* Grid */
+
+#cameraGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 10px;
+}
+
+/* Heading Tag */
+
+#headingCamera{
+  color: black;
+}
+
+#cameraHeading{
+  font-size: 30px;
+  font-family: "Lucida Handwriting";
+}
+
+/* Search Form */
+
+#cameraSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#cameraSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Camera */
+
+#buttonCamera{
+  background-color: black;
+  color: pink;
+  width: 45%;
+}
+
+/* Span Camera */
+
+#cameraSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Camera */
+
+#divCamera {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Tablets */
+
+/* Div Tablets */
+
+#divTabletsImage{
+  background-image: url("./images/tablets.jpg");
+  width: 100%;
+}
+
+/* Card Tablets */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#tabletFlipCard{
+  width: 300px;
+  height: 320px;
+}
+
+#tabletFlipCardBack{
+  background-color: rgb(85, 143, 19);
+}
+
+/* Grid */
+
+#tabletGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 10px;
+}
+
+/* Heading Tag */
+
+#headingTablet{
+  color: black;
+}
+
+#tabletHeading{
+  font-size: 30px;
+  font-family: "NSimSun";
+}
+
+/* Search Form */
+
+#tabletSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#tabletSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Tablet */
+
+#buttonTablet{
+  background-color: black;
+  color: rgb(85, 143, 19);
+  width: 45%;
+}
+
+/* Span Tablet */
+
+#tabletSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Tablet */
+
+#divTablet {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Computer Accessories */
+
+/* Div Computer Accessories */
+
+#divComputerAccessoriesImage{
+  background-image: url("./images/computerAccessories.jpg");
+  width: 100%;
+}
+
+/* Card Computer Accessories */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#computerFlipCard{
+  width: 300px;
+  height: 320px;
+}
+
+#computerFlipCardBack{
+  background-color: rgb(21, 113, 92);
+}
+
+/* Grid */
+
+#computerGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 10px;
+}
+
+/* Heading Tag */
+
+#headingComputer{
+  color: black;
+}
+
+#computerHeading{
+  font-size: 30px;
+  font-family: "Perpetua";
+}
+
+/* Search Form */
+
+#computerSearchForm{
+  margin-left: 60%;
+  width: 40%;
+}
+
+#computerSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Computer Accessories */
+
+#buttonComputer{
+  background-color: black;
+  color: rgb(21, 113, 92);
+  width: 45%;
+}
+
+/* Span Computer Accessories */
+
+#computerSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Computer Accessories */
+
+#divComputer {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Mobile Protection */
+
+/* Div Mobile Protection */
+
+#divMobileProtectionImage{
+  background-image: url("./images/mobileProtection.jpg");
+  width: 100%;
+}
+
+/* Card Mobile Protection */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#protectionFlipCard{
+  width: 300px;
+  height: 320px;
+}
+
+#protectionFlipCardBack{
+  background-color: rgb(20, 186, 45);
+}
+
+/* Grid */
+
+#protectionGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 10px;
+}
+
+/* Heading Tag */
+
+#headingProtection{
+  color: black;
+}
+
+#protectionHeading{
+  font-size: 30px;
+  font-family: "Perpetua";
+}
+
+/* Search Form */
+
+#protectionSearchForm{
+  margin-left: 65%;
+  width: 35%;
+}
+
+#protectionSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Mobile Protection */
+
+#buttonProtection{
+  background-color: black;
+  color: rgb(20, 186, 45);
+  width: 45%;
+}
+
+/* Span Mobile Protection */
+
+#protectionSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Mobile Protection */
+
+#divProtection {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Powerbank */
+
+/* Div Powerbank */
+
+#divPowerbankImage{
+  background-image: url("./images/powerbanks.jpeg");
+  width: 100%;
+}
+
+/* Card Powerbank */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#powerbankFlipCard{
+  width: 300px;
+  height: 330px;
+}
+
+#powerbankFlipCardBack{
+  background-color: rgb(200, 100, 42);
+}
+
+/* Grid */
+
+#powerbankGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 10px;
+}
+
+/* Heading Tag */
+
+#headingPowerbank{
+  color: black;
+}
+
+#powerbankHeading{
+  font-size: 30px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Search Form */
+
+#powerbankSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#powerbankSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Powerbank */
+
+#buttonPowerbank{
+  background-color: black;
+  color: rgb(200, 100, 42);
+  width: 45%;
+}
+
+/* Span Powerbank */
+
+#powerbankSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Powerbank */
+
+#divPowerbank {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Speaker */
+
+/* Div Speaker */
+
+#divSpeakerImage{
+  background-image: url("./images/speakers.jpg");
+  width: 100%;
+}
+
+/* Card Speaker */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#speakerFlipCard{
+  width: 300px;
+  height: 320px;
+}
+
+#speakerFlipCardBack{
+  background-color: yellowgreen;
+}
+
+/* Grid */
+
+#speakerGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 10px;
+}
+
+/* Heading Tag */
+
+#headingSpeaker{
+  color: black;
+}
+
+#speakerHeading{
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Search Form */
+
+#speakerSearchForm{
+  margin-left: 68%;
+  width: 35%;
+}
+
+#speakerSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Speaker */
+
+#buttonSpeaker{
+  background-color: black;
+  color: yellowgreen;
+  width: 45%;
+}
+
+/* Span Speaker */
+
+#speakerSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Speaker */
+
+#divSpeaker {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Mobile Accessories */
+
+/* Div Mobile Accessories */
+
+#divMobileAccessoriesImage{
+  background-image: url("./images/mobileAccessories.jpeg");
+  width: 100%;
+}
+
+/* Card Mobile Accessories */
+
+#cardImage{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+#accessoriesFlipCard{
+  width: 300px;
+  height: 350px;
+}
+
+#accessoriesFlipCardBack{
+  background-color: tomato;
+}
+
+/* Grid */
+
+#accessoriesGrid{
+  margin-top: 10px;
+  margin-left: 60px;
+  column-gap: 10px;
+}
+
+/* Heading Tag */
+
+#headingAccessories{
+  color: black;
+}
+
+#accessoriesHeading{
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* Search Form */
+
+#accessoriesSearchForm{
+  margin-left: 65%;
+  width: 35%;
+}
+
+#accessoriesSearchInput{
+  width: 100%;
+  border: 1px solid #555;
+  display: block;
+  padding: 5px 4px 9px 40px;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+/* Button Mobile Accessories */
+
+#buttonAccessories{
+  background-color: black;
+  color: tomato;
+  width: 45%;
+}
+
+/* Span Mobile Accessories */
+
+#accessoriesSpan{
+  text-decoration: line-through red;
+}
+
+/* Div Mobile Accessories */
+
+#divAccessories {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+/* Footer */
+
+#footer{
+  height: 100%;
+}
+
+/* Flip Cards */
+
+.flip-card {
+  background-color: transparent;
+  width: 320px;
+  height: 355px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  border-radius: 40px;
+  color: black;
+}
+
+.flip-card-back {
+  border-radius: 40px;
+  background-color: skyblue;
+  color: black;
+  transform: rotateY(180deg);
+}
