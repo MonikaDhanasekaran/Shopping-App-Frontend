@@ -1,0 +1,680 @@
+/* T-Shirts */
+
+/*  Div T-Shirts */
+
+#divTshirtImage{
+    background-image: url("./images/tShirt.jpg");
+    width: 100%;
+}
+
+/* Card T-Shirts */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#shirtsFlipCard{
+    width: 300px;
+    height: 250px;
+}
+  
+#shirtsFlipCardBack{
+    background-color: crimson;
+}
+  
+/* Grid */
+  
+#shirtsGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingShirts{
+    color: black;
+}
+  
+#shirtsHeading{
+    font-size: 30px;
+    font-family: "Lucida Console";
+}
+  
+/* Search Form */
+  
+#shirtsSearchForm{
+    margin-left: 68%;
+    width: 35%;
+}
+
+#shirtsSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button T-Shirts */
+  
+#buttonShirts{
+    background-color: black;
+    color: crimson;
+    width: 45%;
+}
+  
+/* Span T-Shirts */
+  
+#shirtsSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div T-Shirts */
+  
+#divShirts {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Jeans */
+
+/*  Div Jeans */
+
+#divJeansImage{
+    background-image: url("./images/jean.jpg");
+    width: 100%;
+}
+
+/* Card Jeans */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#jeanFlipCard{
+    width: 300px;
+    height: 250px;
+}
+  
+#jeanFlipCardBack{
+    background-color: cornflowerblue;
+}
+  
+/* Grid */
+  
+#jeanGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingJean{
+    color: black;
+}
+  
+#jeanHeading{
+    font-size: 30px;
+    font-family: "Franklin Gothic Medium";
+}
+  
+/* Search Form */
+  
+#jeanSearchForm{
+    margin-left: 68%;
+    width: 35%;
+}
+
+#jeanSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Jeans */
+  
+#buttonJean{
+    background-color: black;
+    color: cornflowerblue;
+    width: 45%;
+}
+  
+/* Span Jeans */
+  
+#jeanSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Jeans */
+  
+#divJean {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Track Pants */
+
+/*  Div Track Pants */
+
+#divTrackPantsImage{
+    background-image: url("./images/trackPants.jpg");
+    width: 100%;
+}
+
+/* Card Track Pants */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#pantFlipCard{
+    width: 300px;
+    height: 250px;
+}
+  
+#pantFlipCardBack{
+    background-color: brown;
+}
+  
+/* Grid */
+  
+#pantGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingPant{
+    color: black;
+}
+  
+#pantHeading{
+    font-size: 30px;
+    font-family: "Palatino";
+}
+  
+/* Search Form */
+  
+#pantSearchForm{
+    margin-left: 68%;
+    width: 35%;
+}
+
+#pantSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Track Pants */
+  
+#buttonPant{
+    background-color: black;
+    color: brown;
+    width: 45%;
+}
+  
+/* Span Track Pants */
+  
+#pantSpan{
+    text-decoration: line-through rgb(234, 187, 187);
+}
+  
+/* Div Track Pants */
+  
+#divPant {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Sports Shoes */
+
+/*  Div Sports Shoes */
+
+#divSportShoesImage{
+    background-image: url("./images/sportShoes.jpg");
+    width: 100%;
+}
+
+/* Card Sports Shoes */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#shoesFlipCard{
+    width: 300px;
+    height: 270px;
+}
+  
+#shoesFlipCardBack{
+    background-color: burlywood;
+}
+  
+/* Grid */
+  
+#shoesGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingShoes{
+    color: black;
+}
+  
+#shoesHeading{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+/* Search Form */
+  
+#shoesSearchForm{
+    margin-left: 68%;
+    width: 35%;
+}
+
+#shoesSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Sports Shoes */
+  
+#buttonShoes{
+    background-color: black;
+    color: burlywood;
+    width: 45%;
+}
+  
+/* Span Sports Shoes */
+  
+#shoesSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Sports Shoes */
+  
+#divShoes {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Sarees and Kurtas */
+
+/*  Div Sarees and Kurtas */
+
+#divSareesAndKurtasImage{
+    background-image: url("./images/sarees.jpg");
+    width: 100%;
+}
+
+/* Card Sarees and Kurtas */
+
+#cardSareesImage{
+    width: 200px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#sareesFlipCard{
+    width: 300px;
+    height: 300px;
+}
+  
+#sareesFlipCardBack{
+    background-color: mediumseagreen;
+}
+  
+/* Grid */
+  
+#sareesGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingSarees{
+    color: black;
+}
+  
+#sareesHeading{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+  
+/* Search Form */
+  
+#sareesSearchForm{
+    margin-left: 68%;
+    width: 35%;
+}
+
+#sareesSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Sarees and Kurtas */
+  
+#buttonSarees{
+    background-color: black;
+    color: mediumseagreen;
+    width: 45%;
+}
+  
+/* Span Sarees and Kurtas */
+  
+#sareesSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Sarees and Kurtas */
+  
+#divSarees {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Women's Footwear */
+
+/*  Div Women's Footwear */
+
+#divWomensFootwearImage{
+    background-image: url("./images/footwear.jpg");
+    width: 100%;
+}
+
+/* Card Women's Footwear */
+
+#cardFootwearImage{
+    width: 220px;
+    height: 230px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#footwearFlipCard{
+    width: 300px;
+    height: 250px;
+}
+  
+#footwearFlipCardBack{
+    background-color: magenta;
+}
+  
+/* Grid */
+  
+#footwearGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingFootwear{
+    color: black;
+}
+  
+#footwearHeading{
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+  
+/* Search Form */
+  
+#footwearSearchForm{
+    margin-left: 68%;
+    width: 35%;
+}
+
+#footwearSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Women's Footwear */
+  
+#buttonFootwear{
+    background-color: black;
+    color: magenta;
+    width: 45%;
+}
+  
+/* Span Women's Footwear */
+  
+#footwearSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Women's Footwear */
+  
+#divFootwear {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Luggages and Bags */
+
+/*  Div Luggages and Bags */
+
+#divLuggagesAndBagsImage{
+    background-image: url("./images/bags.jpg");
+    width: 100%;
+}
+
+/* Card Luggages and Bags */
+
+#cardImage{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#bagsFlipCard{
+    width: 300px;
+    height: 280px;
+}
+  
+#bagsFlipCardBack{
+    background-color: mediumaquamarine;
+}
+  
+/* Grid */
+  
+#bagsGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 50px;
+}
+  
+/* Heading Tag */
+  
+#headingBags{
+    color: black;
+}
+  
+#bagsHeading{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+  
+/* Search Form */
+  
+#bagsSearchForm{
+    margin-left: 68%;
+    width: 35%;
+}
+
+#bagsSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Luggages and Bags */
+  
+#buttonBags{
+    background-color: black;
+    color: mediumaquamarine;
+    width: 45%;
+}
+  
+/* Span Luggages and Bags */
+  
+#bagsSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Luggages and Bags */
+  
+#divBags {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
+
+/* Kids Fashion */
+
+/*  Div Kids Fashion */
+
+#divKidsFashionImage{
+    background-image: url("./images/kidsFashion.jpg");
+    width: 100%;
+}
+
+/* Card Kids Fashion */
+
+#cardKidsImage{
+    width: 200px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+  
+#kidsFlipCard{
+    width: 300px;
+    height: 250px;
+}
+  
+#kidsFlipCardBack{
+    background-color: mediumpurple;
+}
+  
+/* Grid */
+  
+#kidsGrid{
+    margin-top: 10px;
+    margin-left: 10px;
+    column-gap: 40px;
+    row-gap: 30px;
+}
+  
+/* Heading Tag */
+  
+#headingKids{
+    color: black;
+}
+  
+#kidsHeading{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+  
+/* Search Form */
+  
+#kidsSearchForm{
+    margin-left: 68%;
+    width: 35%;
+}
+
+#kidsSearchInput{
+    width: 100%;
+    border: 1px solid #555;
+    display: block;
+    padding: 5px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+  
+/* Button Kids Fashion */
+  
+#buttonKids{
+    background-color: black;
+    color: mediumpurple;
+    width: 45%;
+}
+  
+/* Span Kids Fashion */
+  
+#kidsSpan{
+    text-decoration: line-through red;
+}
+  
+/* Div Kids Fashion */
+  
+#divKids {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+}
